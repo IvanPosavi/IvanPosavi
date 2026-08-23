@@ -121,7 +121,7 @@ My goal is to combine my **IT support experience** with modern Front-End develop
 
 I'm always open to connecting with other developers, discussing web development, or exploring new opportunities.
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+📧 **Email:** [your-email@example.com](mailto:ivan.posavi@gmail.com)
 
 🐙 **GitHub:** [github.com/IvanPosavi](https://github.com/IvanPosavi)
 
