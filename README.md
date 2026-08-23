@@ -93,6 +93,8 @@ Front-End Developer Program
 
 Completed a Front-End Development program focused on modern web development, including HTML, CSS, JavaScript, Bootstrap, Sass, React, responsive design, and Git/GitHub.
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🌐 WordPress Photography Website
