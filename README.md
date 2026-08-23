@@ -122,7 +122,7 @@ The website was built without using a pre-designed website template. I created t
 
 A real-time web chat application built with **React** and **ScaleDrone**.
 
-Created as my final project during the Front-End Development course at Algebra.
+Created as my final project during the Front-End Development program at the University of Algebra.
 
 The application allows multiple users to communicate in real time directly through their web browsers.
 
@@ -136,7 +136,7 @@ The application allows multiple users to communicate in real time directly throu
 
 ### ✅ TO-Do App
 
-A Microsoft To Do-inspired application created as part of my Front-End Development course at Algebra.
+A Microsoft To Do-inspired application created as part of my Front-End Development course at University of Algebra.
 
 This project was developed as an educational exercise based on the application demonstrated by the course instructor.
 
