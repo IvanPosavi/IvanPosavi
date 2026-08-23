@@ -4,7 +4,7 @@
 
 I'm a Front-End Developer passionate about building **modern, responsive, and user-friendly web experiences**.
 
-Currently, I work as a **Help Desk Specialist at [Maistra]([https://ivonamilotic.com/](https://www.maistra.com/hr/#/)) in Rovinj**, where I provide technical support and solve day-to-day IT challenges.
+Currently, I work as a **Help Desk Specialist at [Maistra](https://www.maistra.com/hr/#/) in Rovinj**, where I provide technical support and solve day-to-day IT challenges.
 
 Alongside my professional IT work, I'm developing my skills in Front-End Development by building websites, web applications, and personal projects.
 
