@@ -84,8 +84,8 @@ The application allows multiple users to communicate in real time directly throu
 
 **Built with:** React · JavaScript · CSS · ScaleDrone
 
-🔗 <a href="https://github.com/IvanPosavi/chat-app">
-  <img src="https://img.shields.io/badge/📂%20View%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="View Code">
+<a href="https://github.com/IvanPosavi/chat-app">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 ---
@@ -98,7 +98,9 @@ This project was developed as an educational exercise based on the application d
 
 **Built with:** HTML · CSS · JavaScript
 
-🔗 [View Repository](https://github.com/IvanPosavi/TO-Do)
+<a href="https://github.com/IvanPosavi/TO-Do">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 ---
 
