@@ -69,7 +69,7 @@ The website was built without using a pre-designed website template. I created t
 **Built with:** WordPress · HTML · CSS · JavaScript · PHP
 
 🔗 <a href="https://ivonamilotic.com/">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-21759B?style=for-the-badge" alt="Live Demo">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-21759B?style=for-the-badge" alt="Live Demo"> target="_blank"
 </a>
 
 ---
