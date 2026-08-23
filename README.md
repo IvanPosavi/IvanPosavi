@@ -85,7 +85,7 @@ Alongside my professional IT work, I'm developing my skills in Front-End Develop
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **University of Algebra — Zagreb, Croatia**
 
