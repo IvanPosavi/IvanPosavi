@@ -85,6 +85,14 @@ Alongside my professional IT work, I'm developing my skills in Front-End Develop
 
 ---
 
+## 🎓 Education
+
+**University of Algebra — Zagreb, Croatia**
+
+Front-End Developer Program
+
+Completed a Front-End Development program focused on modern web development, including HTML, CSS, JavaScript, Bootstrap, Sass, React, responsive design, and Git/GitHub.
+
 ## 🚀 Featured Projects
 
 ### 🌐 WordPress Photography Website
