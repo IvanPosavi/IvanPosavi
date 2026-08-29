@@ -118,11 +118,8 @@ The app includes full CRUD functionality, advanced filtering and sorting, live s
 
 **Built with:** React · Vite · JavaScript · CSS3 · Recharts · Lucide React · PWA · GitHub Actions
 
-<a href="https://ivanposavi.github.io/expense-tracker/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2EA44F?style=for-the-badge" alt="Live Demo">
-</a>
 <a href="https://github.com/IvanPosavi/expense-tracker">
-  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 ---
