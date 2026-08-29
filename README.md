@@ -97,6 +97,36 @@ Completed a Front-End Development program focused on modern web development, inc
 
 ## 🚀 Featured Projects
 
+### 💸 Expense Tracker | ACME
+
+A modern browser-based expense tracking application built with **React** and **Vite**.
+
+The app includes full CRUD functionality, advanced filtering and sorting, live statistics and charts, dark/light mode, accessibility improvements, local data persistence, and Progressive Web App support.
+
+**Highlights:**
+
+* ➕ Add, edit, and delete expenses
+* 🔎 Search, filter, and sort expenses
+* 📊 Dashboard statistics and interactive charts
+* 🌗 Light and dark mode
+* 💾 LocalStorage persistence
+* ♿ Accessibility-focused UI
+* 📱 Fully responsive design
+* 📴 Offline support
+* 📲 Installable PWA
+* 🚀 Automated deployment with GitHub Actions
+
+**Built with:** React · Vite · JavaScript · CSS3 · Recharts · Lucide React · PWA · GitHub Actions
+
+<a href="https://ivanposavi.github.io/expense-tracker/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2EA44F?style=for-the-badge" alt="Live Demo">
+</a>
+<a href="https://github.com/IvanPosavi/expense-tracker">
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+---
+
 ### 🌐 WordPress Photography Website
 
 A complete photography portfolio website designed and developed from scratch using **WordPress**.
